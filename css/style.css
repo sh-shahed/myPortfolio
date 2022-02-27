@@ -337,6 +337,7 @@ nav ul li a {
 
 .services-block {
   margin-top: 10%;
+  cursor: pointer;
 }
 
 .owl-item {
